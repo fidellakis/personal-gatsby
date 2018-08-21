@@ -10,7 +10,7 @@ const IndexPage = () => (
     <div className="index">
       <div className="main">
         <h5>
-          Hi, I'm <span className="bold">Praagya Joshi</span>
+          Hi, I'm <span className="bold">Fidel Lakis</span>
         </h5>
 
         <h3 className="bold">
